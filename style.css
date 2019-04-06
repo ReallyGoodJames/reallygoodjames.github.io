@@ -1,0 +1,9 @@
+#navitem {
+    background-color: red;
+    display: inline;
+}
+
+#footeritem {
+    background-color: teal;
+    display: inline;
+}
